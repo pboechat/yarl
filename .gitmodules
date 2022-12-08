@@ -1,0 +1,3 @@
+[submodule "submodules/FastCG"]
+	path = submodules/FastCG
+	url = https://github.com/pboechat/FastCG.git
